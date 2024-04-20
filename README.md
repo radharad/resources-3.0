@@ -6,7 +6,7 @@ The Green Energy Network is a modern web platform built using React.js.
 
 To run this project locally, follow these steps:
 
-1. Clone the repository:
+1. Clone the repository: `git clone https://github.com/radharad/resources-3.0.git `
 2. Navigate to the project directory:
 3. Install dependencies:
 4. Start the development server:
@@ -38,3 +38,9 @@ public/
 |-- index.html
 README.md
 package.json
+
+## Contact Information:
+For any inquiries or feedback, please email me at komalsatpute950@gmail.com
+
+## Demo Link:
+You can view the live demo [here](https://first-template-green-energy-network1.netlify.app).
