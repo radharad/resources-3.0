@@ -1,0 +1,26 @@
+*{
+  font-family: 'Alegreya', serif;
+}
+/* Scrollbar Section Start */
+
+/* Width */
+::-webkit-scrollbar{
+  width: 0.5rem;
+}
+
+/* Track */
+::-webkit-scrollbar-track{
+    background: #ebf3fe;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb{
+ background: rgb(128, 136, 231);
+ 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover{
+    background:#010854;
+}
+/* Scrollbar Section End */

@@ -1,0 +1,55 @@
+
+.color{
+    overflow: hidden;  
+    background-color:#010854;
+}
+.color ul li{
+    position: relative;
+    height: 42px;
+    line-height: 42px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.logo{
+    width:216px !important;
+    height:39px !important;
+}
+.color a::after{
+ content: "";
+ position: absolute;
+ left: 0;
+ bottom: -5px;
+ height: 3px;
+ width: 0%;
+ transition: all ease 1s;
+}
+.color a:hover::after{
+    width: 100%;  
+}
+.color a:hover{
+    color: rgb(128, 136, 231);
+}
+.decoration-none a:hover{
+    text-decoration: none;
+}
+.body{
+    overflow-x: hidden;
+    z-index: 1;
+}
+select:hover{
+    color: rgb(128, 136, 231);  
+}
+
+@media only screen and (min-width:200px) and (max-width:767px){
+    .display{
+      display: none;
+        z-index: 1;
+    }
+    /* button{
+        margin-top: 20px;
+    } */
+    .logo{
+        padding-left: 20px;
+    }
+}
+
