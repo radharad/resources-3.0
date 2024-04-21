@@ -43,4 +43,4 @@ package.json
 For any inquiries or feedback, please email me at komalsatpute950@gmail.com
 
 ## Demo Link:
-You can view the live demo [here](https://first-template-green-energy-network1.netlify.app).
+You can view the live demo [here](https://cerulean-biscochitos-6fb4f9.netlify.app).
